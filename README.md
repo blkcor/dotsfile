@@ -1,2 +1,4 @@
 # dotsfile
-all of my config
+Config For:
+- fish
+- neovim
